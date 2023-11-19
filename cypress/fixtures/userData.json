@@ -9,5 +9,20 @@
         "login":"mateuszW",
         "password":"1234567890",
         "email":"jakisEmail"
+    },
+    "user3": {
+        "login":"mateuszW",
+        "password":"1234567890",
+        "email":"jakisEmail"
+    },
+    "user4": {
+        "login":"mateuszW",
+        "password":"1234567890",
+        "email":"jakisEmail"
+    },
+    "user5": {
+        "login":"mateuszWWWWW",
+        "password":"1234567890",
+        "email":"jakisEmail"
     }
   }

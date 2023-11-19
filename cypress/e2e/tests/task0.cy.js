@@ -82,7 +82,9 @@ it('Test 4', () => {
     cy.get('[data-qa="login-password"]').type(user.mateuszW.password)
     cy.get('[data-qa="login-button"]').click()
     cy.contains('Logged in as mateuszW').should('exist')
-    cy.contains('Logout').click()
+    //cy.contains('Logout').click()
+    cy.get('.shop-menu > .nav > :nth-child(5) > a').click({force:true})
+    cy.contains('Account Deleted!').should('exist')
     
 });
 
