@@ -1,0 +1,13 @@
+{
+    "mateuszW": {
+        "login":"mateuszW",
+        "password":"1234567890",
+        "email":"mateusz@gmail.com"
+    },
+
+    "user2": {
+        "login":"mateuszW",
+        "password":"1234567890",
+        "email":"jakisEmail"
+    }
+  }
